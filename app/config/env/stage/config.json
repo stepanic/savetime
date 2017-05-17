@@ -1,0 +1,21 @@
+{
+  "ENV": {
+    "backendUrl": "http://api.apps.savetime.io:80",
+    "enableLogging": true,
+    "Parse": {
+      "applicationId": "HYaMtgwUjeMYmlTbixTTI8mDSnMVN7mFBF0M7ocM",
+      "javaScriptKey": "mYVxB7l877QmMBgtvRUQmljiyEjj9S8AXOKXHeeP",
+      "RestApiKey": "UYud9JvyOFC0SHDe3ehZ7Xnb0kmn0M5lBl8naE97",
+      "serverURL": "http://stage.api.savetime.io/parse",
+      "Facebook": {
+        "appId": "1402508343399917",
+        "channelUrl": "http://savetime.io/channel.html"
+      }
+    },
+    "Google": {
+      "Maps": {
+        "key": "AIzaSyCwfGuJkFDA19hiRMz6GrZY8eOhM7P-5Fs"
+      }
+    }
+  }
+}
